@@ -7,5 +7,12 @@ namespace finest
 {
     public class Denise
     {
+        string rappy;
+
+        public string Rappy
+        {
+            get { return rappy; }
+            set { rappy = value; }
+        }
     }
 }
