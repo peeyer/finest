@@ -7,5 +7,6 @@ namespace finest
 {
     public class reneza
     {
+        string toni = "ganda";
     }
 }
